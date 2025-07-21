@@ -1,1 +1,46 @@
-# hoclaptrinh
+<!DOCTYPE html>
+<html lang="en,vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>HOME-TRANG CHU</title>
+  </head>
+  <body>
+    <a href="" target="_self">HOME</a>
+    <a
+      href="file:///D:/c%C3%B4ng%20vi%E1%BB%87c%20b%C3%A1n%20gi%C3%A0y/folder/product.html"
+      target="_self"
+      >PRODUCT</a
+    >
+    <a
+      href="file:///D:/c%C3%B4ng%20vi%E1%BB%87c%20b%C3%A1n%20gi%C3%A0y/folder/sale.html"
+      target="_self"
+      >SALE</a
+    >
+    <u
+      ><h1>Trang Chủ bán hàng</h1>
+      <hr
+    /></u>
+    <ul>
+      <li>
+        <img src="./img/gay1.jpg" alt="giay1" width="100" height="100" />
+      </li>
+      <a
+        href="file:///D:/c%C3%B4ng%20vi%E1%BB%87c%20b%C3%A1n%20gi%C3%A0y/folder/sale.html"
+        target="_self"
+        >Giá Sốc
+      </a>
+      <li>
+        <img src="./img/gaiy2.jpg" alt="giay2" width="100" height="100" />
+      </li>
+      <li>
+        <img src="./img/giay3.jpg" alt="giay3" width="100" height="100" />
+      </li>
+      <li>
+        <img src="./img/giayvans.jpg" alt="giay4" width="100" height="100" />
+      </li>
+    </ul>
+  </body>
+</html>
+
+
